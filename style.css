@@ -67,6 +67,7 @@ padding: 0;
 }
 
 .estudante-todos {
-
-    grid-template-columns: ;
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
 }
+
