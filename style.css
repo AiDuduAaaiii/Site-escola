@@ -88,4 +88,7 @@ body {
 
 .rodape-icone{
     displkay: flex;
+    margin: 0 auto;
+    widht: 30px;
+    padding: 4px 8px;
 }
