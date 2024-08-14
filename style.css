@@ -80,4 +80,12 @@ body {
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
 
+.rodape {
+    backgroung-color: black;
+    color: white;
+    text-align: center;
+}
 
+.rodape-icone{
+    displkay: flex;
+}
